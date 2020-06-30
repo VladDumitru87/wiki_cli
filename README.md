@@ -2,7 +2,7 @@
 
 This is a simple script for interacting with wikipedia.org directly into the terminal
 
-## Installation
+## Installation / Run
 
 In order to run this program there are some necessary conditions that must be met:
 * **Python** must be installed: *https://www.python.org/downloads/*
